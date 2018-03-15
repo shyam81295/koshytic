@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata tileno="IMS1_HYSI_GEO_105_16FEB2011_S3_TOA_REFLECTANCE_08_SPBIN">
+<author>National Remote Sensing Centre,ISRO</author>
+<author_URL>http://bhuvan-noeda.nrsc.gov.in</author_URL>
+<Data_Identification_Information>
+<Name_of_the_Dataset>IMS1_HYSI_GEO_105_16FEB2011_S3_TOA_REFLECTANCE_08_SPBIN</Name_of_the_Dataset>
+<Keywords>IMS1,HySI,SPBIN,RADIANCE,TOA_REFLECTANCE,India,ISRO,NRSC</Keywords>
+<Access_Constraints xml:space="preserve"> Registered Users </Access_Constraints>
+<Use_Constraints xml:space="preserve"> As per NRSC Data Dissemination Policy</Use_Constraints>
+<Purpose_of_creating_data xml:space="preserve">To Provide Hyperspectral data to the community</Purpose_of_creating_data>
+<Edition>First</Edition>
+<Status>Completed</Status>
+</Data_Identification_Information>
+<Contact_Information>
+<Contact_Person xml:space="preserve"> Group Director,G and SP </Contact_Person>
+<Organisation xml:space="preserve"> National Remote Sensing Centre</Organisation>
+<Mailing_Address>Balanagar</Mailing_Address>
+<City>Hyderabad</City>
+<Country>India</Country>
+<Contact_Telephone>04023884447/48</Contact_Telephone>
+<Contact_Fax>04023884346</Contact_Fax>
+<Contact_Email>gdgsp@nrsc.gov.in</Contact_Email>
+</Contact_Information>
+<Geographic_Location>
+<Spheroid_Datum> GCS, WGS-1984</Spheroid_Datum>
+</Geographic_Location>
+<Coverage>
+<Upper_left>X = 76.77E, Y = 13.5N </Upper_left>
+<Upper_right>X = 78.22E, Y = 13.5N </Upper_right>
+<Lower_right>X = 78.22E, Y = 12.14N </Lower_right>
+<Lower_left>X = 76.77E, Y = 12.14N </Lower_left>
+</Coverage>
+<Citation>
+<Data_Prepared_by>NRSC</Data_Prepared_by>
+<Original_Source xml:space="preserve">IMS1 HySI Georeferenced data</Original_Source>
+<Lineage>
+<File_Name>IMS1_HYSI_GEO_105_16FEB2011_S3_TOA_REFLECTANCE_08_08_SPBIN</File_Name>
+<Resolution xml:space="preserve">0.005Deg</Resolution>
+<File_Format>Geotiff</File_Format>
+</Lineage>
+</Citation>
+<Metadata_Stamp>
+<Metadata_Date_Stamp>04/07/2013</Metadata_Date_Stamp>
+</Metadata_Stamp>
+<Dataset_Topic_Category>
+<Data_Identification_topic_category xml:space="preserve">Geo Rectified and Co-registered Hyperspectral Data</Data_Identification_topic_category>
+</Dataset_Topic_Category>
+<Language>
+<language>English</language>
+</Language>
+<Abstract_describing_the_data>
+<Data_Identification_Abstract xml:space="preserve"> This data is received from IMS1, HySI which operates in 64 spectral bands in VNIR bands(400-900nm) with 500 meter spatial resolution and swath of 128 kms.</Data_Identification_Abstract>
+</Abstract_describing_the_data>
+<For_Image_Data>
+<Name_of_the_Satellite>IMS1</Name_of_the_Satellite>
+<Sensor>HySI</Sensor>
+<Path>105</Path>
+<Segment>S3</Segment>
+<Scene>08</Scene>
+<Image_Acquired_From>IMS1</Image_Acquired_From>
+<Date_of_Pass>16FEB2011</Date_of_Pass>
+<File_Format>Geotiff</File_Format>
+<Spatial_Resolution xml:space="preserve">0.005 Deg</Spatial_Resolution>
+<Spatial_Resolution_Unit>deg</Spatial_Resolution_Unit>
+<Number_of_Bands>17</Number_of_Bands>
+<Scene_Centre_Time>4-38-45</Scene_Centre_Time>
+<Sun_Elevation_at_Scene_Centre_Time>46.146559</Sun_Elevation_at_Scene_Centre_Time>
+<Units>TOA Reflectance</Units>
+<Scale_Factor>0.001</Scale_Factor>
+<Saturation_Radiance> 47.5871,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153,34.6153.</Saturation_Radiance>
+<Central_Wavelength_of_Bands> 522.2,547.4,572.6,597.8,622.9,648,673.1,698.2,723.2,748.3,773.3,798.3,823.2,848.2,873.1,898,922.9</Central_Wavelength_of_Bands>
+</For_Image_Data>
+</metadata>
